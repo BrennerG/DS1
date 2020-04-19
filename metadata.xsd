@@ -5,33 +5,18 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 xmlns:dc="http://purl.org/dc/elements/1.1/">
 <dc:title>Finding predictive features for countries living in extreme poverty</dc:title>
 <dc:creator>Gabriel Breiner</dc:creator>
+<dc:orcid>0000-0002-6803-7729</dc:orcid>
 <dc:subject>Extreme poverty</dc:subject>
-<dc:description>This research project aims to find the most predictive features for countries living in extreme poverty. We used the World Bank's Definition of having a GNI of less then 1.9$ per day per person on average. We also look into countries that were once living in extreme poverty by this definition, but are not anymore (state 2019). From this data further conclusions may be made about ways of fighting extreme poverty and finding means to overcome it.</dc:description>
+<dc:description>This research project aims to find the most predictive features for countries living in extreme poverty. We used the World Bank's definition of having a GNI of less then 1.9$ per day per person on average From this data further conclusions may be made about ways of fighting extreme poverty and finding means to overcome it.</dc:description>
 <dc:contributor>Aaron Abebe</dc:contributor>
 <dc:contributor>Sanja Prijselac</dc:contributor>
 <dc:contributor>Carlos Vargas</dc:contributor>
 <dc:date>January 2020</dc:date>
-<dc:type>Software</dc:type>
-<dc:identifier>TODO</dc:identifier>
-<dc:source>TODO</dc:source>
+<dc:type>Software (python)</dc:type>
+<dc:identifier>https://zenodo.org/badge/latestdoi/256998939</dc:identifier>
+<dc:source>https://github.com/BrennerG/DS1</dc:source>
 <dc:language>english</dc:language>
 <dc:coverage>1970-2017</dc:coverage>
-<dc:rights>TODO</dc:rights>
+<dc:rights>MIT License</dc:rights>
 
 </metadata>
-
-<!--
-<dc:></dc:>
-    Authors
-    ORCIDs
-    Title
-    Subject
-    Description
-    Date
-    Framework
-    Source
-    Coverage
-    License
-    DOIs
-    github
--->
