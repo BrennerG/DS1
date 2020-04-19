@@ -1,0 +1,39 @@
+,descriptions,na_percent,na_total,minimum,maximum
+LOCATION,LOCATION,0.0,0,ABW,ZZA
+TIME,TIME,0.0,0,1970,2019
+SP_DYN_TFRT_IN,"Fertility rate, total (births per woman)",19.16,2231,0.8270000000000001,8.866
+SP_DYN_LE00_IN,"Life expectancy at birth, total (years)",19.3,2247,18.907,85.41707
+SP_DYN_IMRT_IN,"Mortality rate, infant (per 1,000 live births)",24.68,2873,1.6,218.7
+SP_POP_GROW,Population growth (annual %),11.74,1367,-9.080639999999999,19.59727
+SH_DYN_AIDS_ZS,"Prevalence of HIV, total (% of population ages 15-49)",67.29,7834,0.1,28.4
+SP_RUR_TOTL_ZS,Rural population (% of total population),15.17,1766,0.02,97.155
+NY_GDP_MKTP_CN,GDP (current LCU),23.53,2739,0.00815,1.531653e+16
+NY_GDP_MKTP_CD,GDP (current US$),28.35,3301,8824447.74022,19485394000000.0
+NY_GDP_DEFL_ZS,GDP deflator (base year varies by country),31.1,3621,0.0050799999999999994,7018.62858
+NY_GDP_MKTP_KD_ZG,GDP growth (annual %),30.02,3495,-64.04711,149.97296
+NY_GDP_PCAP_CD,GDP per capita (current US$),28.38,3304,57.63525,185152.52723
+NY_GDP_PCAP_PP_CD,"GDP per capita, PPP (current international $)",55.54,6466,241.94364,140334.24472000002
+NY_GDP_MKTP_PP_CD,"GDP, PPP (current international $)",55.51,6463,13692863.91384,23350230198209.6
+XTGOV_IMF,General government total expenditure (current LCU),53.18,6191,1000000.0,4236495218000000.0
+NY_GNP_PCAP_CD,"GNI per capita, Atlas method (current US$)",35.7,4156,60.0,121650.0
+NY_GNP_PCAP_PP_CD,"GNI per capita, PPP (current international $)",56.74,6606,230.0,128320.0
+SI_POV_DDAY,Poverty headcount ratio at $1.90 a day (PPP) (% of population),89.12,10375,0.1,94.1
+PA_NUS_PPP,"PPP conversion factor, GDP (LCU per international $)",55.95,6514,0.00514,12437.17021
+DT_TDS_DECT_GN_ZS,Total debt service (% of GNI),61.3,7137,0.00533,102.22222
+200101,Total population ,3.26,380,0.642,1433783.686
+200151,Population aged 65 years or older ,3.26,380,0.039,164486.432
+200345,Population aged 25-64 years ,3.26,380,0.34600000000000003,843081.4659999999
+200343,Population aged 14 years or younger ,3.26,380,0.063,380433.169
+200144,Population aged 15-24 years ,3.26,380,0.04,256149.18300000002
+NY_GNP_PCAP_CN,GNI per capita (current LCU),31.22,3635,0.00561,189064882.7884
+NY_GDP_MKTP_KD,GDP at market prices (constant 2010 US$),31.17,3629,21441966.957089998,17348625758200.0
+PA_NUS_PPPC_RF,Price level ratio of PPP conversion factor (GDP) to market exchange rate,56.07,6528,0.10106,1.8556599999999999
+PA_NUS_FCRF,"Official exchange rate (LCU per US$, period average)",21.45,2497,0.00512,33226.29815
+NY_GDP_MKTP_KN,GDP (constant LCU),29.05,3382,21010400.0,9912703600000000.0
+PA_NUS_ATLS,DEC alternative conversion factor (LCU per US$),26.5,3085,0.005,33735.9014
+PA_NUS_PRVT_PP,"PPP conversion factor, private consumption (LCU per international $)",59.59,6938,0.00507,14041.154040000001
+NY_GNP_MKTP_CN,GNI (current LCU),26.58,3095,0.06966,1.5345033e+16
+NY_GDP_PCAP_PP_KD,"GDP per capita, PPP (constant 2011 international $)",55.57,6469,354.28454,135318.75442
+NY_GDP_MKTP_PP_KD,"GDP, PPP (constant 2011 international $)",55.54,6466,21190503.00598,21223921943634.8
+NY_GDP_PCAP_CN,GDP per capita (current LCU),27.38,3188,0.00527,188713699.68218002
+poverty,poverty,0.0,0,False,True
